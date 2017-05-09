@@ -10,10 +10,10 @@ Prerequisite:
        
 How to Configure: 
 
-   1. Give execute permission to your script
+   1. Give execute permission to your script<br/>
             ex:  chmod +x /path/to/MonkeyRunner_log_collector_1.0.sh
 
-   2. And to run your script (<app-packagename> is argument for script)
+   2. And to run your script (<app-packagename> is argument for script)<br/>
              ex: sh /path/to/MonkeyRunner_log_collector_1.0.sh <app-packagename>
              
              
