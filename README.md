@@ -14,11 +14,12 @@ How to Configure:
    1. Give execute permission to your script<br/>
             ex:  chmod +x /path/to/MonkeyRunner_log_collector_1.0.sh
 
-   2. And to run your script (<<app-packagename>> is argument for script)<br/>
-             ex: sh /path/to/MonkeyRunner_log_collector_1.0.sh <<app-packagename>>
+   2. And to run your script ([app-packagename] is argument for script)<br/>
+             ex: sh /path/to/MonkeyRunner_log_collector_1.0.sh [app-packagename]
              
 How to execute:  
-      sh MonkeyRunner_log_collector_1.0.sh <app-packagename>              
+      sh MonkeyRunner_log_collector_1.0.sh [app-packagename]  
+      ex: sh MonkeyRunner_log_collector_1.0.sh com.google.android.apps.maps  
              
              
 
